@@ -1,0 +1,28 @@
+_repo: RadaA-Belgian-Christmas-Eve_44829
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44829-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
+description: ''
+gutenberg_issued: '2014-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44829'
+  lccn: '15018036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Drama'
+- !lcc 'PR'
+title: 'Rada: A Belgian Christmas Eve'
+url: http://www.gutenberg.org/ebooks/44829
